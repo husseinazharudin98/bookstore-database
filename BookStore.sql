@@ -1,3 +1,10 @@
+CREATE DATABASE BookStoreDB;
+USE BookStoreDB;
+
+
+
+
+
 
 CREATE TABLE BookStore (
   id INTEGER PRIMARY KEY,
