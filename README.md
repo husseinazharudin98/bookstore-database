@@ -1,6 +1,3 @@
-Below is a template for a README file for your SQL bookstore project, which you can customize as needed before adding it to your GitHub repository. This template will explain the purpose of the project, how to use the SQL file, and give a general overview suitable for your GitHub audience.
-
----
 
 # BookStore Database Project
 
